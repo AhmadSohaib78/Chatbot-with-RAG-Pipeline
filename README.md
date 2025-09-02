@@ -12,22 +12,11 @@ This project is a **Retrieval-Augmented Generation (RAG) based chatbot** that an
 * Simplified integration: `sentence-transformers` for embeddings, OpenAI for LLM.
 
 
-## Project Structure
-
-chatbot-with-rag-pipeline/
-├── app.py                  # Main chatbot application
-├── pipeline/               # Embedding, retrieval, and utility modules
-├── requirements.txt        # Python dependencies
-├── README.md               # Project documentation
-└── .gitignore              # Ignore sensitive files and caches
-
-
 ## Setup Instructions
 
 ### 1. Clone Repository
 
 git clone (https://github.com/AhmadSohaib78/Chatbot-with-RAG-Pipeline.git)
-cd chatbot-with-rag-pipeline
 
 ### 2. Install Dependencies
 
