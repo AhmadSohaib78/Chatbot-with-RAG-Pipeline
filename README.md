@@ -26,9 +26,8 @@ chatbot-with-rag-pipeline/
 
 ### 1. Clone Repository
 
-git clone https://github.com/yourusername/chatbot-with-rag-pipeline.git
+git clone (https://github.com/AhmadSohaib78/Chatbot-with-RAG-Pipeline.git)
 cd chatbot-with-rag-pipeline
-
 
 ### 2. Install Dependencies
 
